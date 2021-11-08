@@ -1,0 +1,11 @@
+label {
+    color: brown;
+}
+
+h, h1, h2 {
+    color: red;
+}
+
+.image {
+    background-color: red;
+}
